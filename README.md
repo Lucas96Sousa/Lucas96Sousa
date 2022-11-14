@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucas96Sousa
 - 👀 I’m interested in work to backend developer
-- 🌱 I’m currently learning - Rust
+- 🌱 I’m currently learning - Golang, Terraform, Aws
 
 
 <!---
