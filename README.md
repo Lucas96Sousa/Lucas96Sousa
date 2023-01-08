@@ -21,7 +21,7 @@
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
-### <img src="https://i.gifer.com/ZdPG.gif" width="50"> A little more about me  
+### A little more about me  
 
 ```md
 Lucas Sousa = {
