@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @Lucas96Sousa
-- 👀 I’m interested in work to backend developer
-- 🌱 I’m currently learning - Golang, Terraform, Aws
+<h2> Hi I'm Lucas</h2>
+<p><em>Nodejs Developer 
+</em></p>
 
+[![Linkedin: anmol](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-o-sousa/)](https://www.linkedin.com/in/lucas-o-sousa/)
+![GitHub followers](https://img.shields.io/github/followers/Lucas96Sousa?label=Follow&style=social)
 
-<!---
-Lucas96Sousa/Lucas96Sousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">
+  My Github Stats
+</h2>
+
+<br>
+
+<p align = "center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Lucas96Sousa&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Lucas96Sousa&theme=default" />
+</picture>
+</p>
+
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+
+### <img src="https://i.gifer.com/ZdPG.gif" width="50"> A little more about me  
+
+```md
+Lucas Sousa = {
+    pronouns: "He" | "him",
+    code: ["JavaScript", "Golang"],
+    technologies: {
+        studying JavaScript, Golang, Terraform
+    }
+}
