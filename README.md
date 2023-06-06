@@ -26,8 +26,8 @@
 ```md
 Lucas Sousa = {
     pronouns: "He" | "him",
-    code: ["JavaScript", "Golang"],
+    code: ["JavaScript", "Java"],
     technologies: {
-        studying JavaScript, Golang, Terraform
+        studying JavaScript, Java, Terraform
     }
 }
