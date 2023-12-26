@@ -1,5 +1,5 @@
 <h2> Hi I'm Lucas</h2>
-<p><em>Nodejs Developer 
+<p><em>Javascript Developer 
 </em></p>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-o-sousa/)](https://www.linkedin.com/in/lucas-o-sousa/)
@@ -26,8 +26,8 @@
 ```md
 Lucas Sousa = {
     pronouns: "He" | "him",
-    code: ["JavaScript", "Java"],
+    code: ["JavaScript", "Golang"],
     technologies: {
-        studying JavaScript, Java, Terraform
+        studying  Golang, Terraform, Oracle and AWS
     }
 }
